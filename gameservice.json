@@ -1,0 +1,96 @@
+[
+    {
+      "id": 1,
+      "title": "Epic Quest: Save the Kingdom",
+      "description": "Embark on an epic journey to save the kingdom from an ancient evil. This thrilling adventure will test your skills and courage as you battle mythical creatures and solve intricate puzzles. Are you the hero the kingdom needs?",
+      "price": 50,
+      "serviceImg": "https://i.ibb.co/QQc2hdc/a1.webp"
+    },
+    {
+      "id": 2,
+      "title": "Arena Battles: Test Your Mettle",
+      "description": "Step into the arena and prove your combat prowess. Challenge other warriors in fierce battles where only the strongest survive. Can you become the arena champion and earn eternal glory?",
+      "price": 20,
+      "serviceImg": "https://i.ibb.co/GtFGWDK/a2.png"
+    },
+
+    {
+      "id": 4,
+      "title": "Gourmet Quest: Culinary Adventure",
+      "description": "Embark on a gourmet quest to create the most exquisite dishes. Travel the world, gather rare ingredients, and master culinary arts to become a legendary chef. Can you satisfy the world's most discerning palates?",
+      "price": 40,
+      "serviceImg": "https://i.ibb.co/w74jN27/a4.webp"
+    },
+
+    {
+      "id": 6,
+      "title": "Shutter Chronicles: Capture the Unseen",
+      "description": "Join the elite ranks of photographers and capture the unseen beauty of the world. Travel to exotic locations, capture breathtaking moments, and tell compelling visual stories. Will you be the next photography legend?",
+      "price": 30,
+      "serviceImg": "https://i.ibb.co/zXT46Lw/a5.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Symphony of Sound: Music Maestro",
+      "description": "Become the maestro of your own symphony by composing and performing beautiful music. Collaborate with musicians, create melodious tunes, and enchant audiences around the world. Can you create the perfect harmony?",
+      "price": 20,
+      "serviceImg": "https://i.ibb.co/Pj9cZzS/a7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Event Mastermind: Perfect Planning",
+      "description": "Take on the role of an event mastermind and coordinate weddings, parties, and celebrations flawlessly. From ceremony to reception, ensure that every detail is executed seamlessly. Will you become the go-to event expert?",
+      "price": 35,
+      "serviceImg": "https://i.ibb.co/XkchS9J/a8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Transport Tycoon: Road to Success",
+      "description": "Embark on a journey to build a transportation empire. Manage logistics, optimize routes, and ensure the smooth movement of goods and passengers. Can you pave the way to success in the world of transportation?",
+      "price": 30,
+      "serviceImg": "https://i.ibb.co/MgTk8DS/a9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Invitation Artistry: Design Elegance",
+      "description": "Enter the world of invitation artistry and craft beautifully designed invitations. From elegant weddings to grand events, create invitations that leave a lasting impression. Will your designs be the talk of the town?",
+      "price": 15,
+      "serviceImg": "https://i.ibb.co/7Rk2T6b/a10.webp"
+    },
+    {
+      "id": 11,
+      "title": "Cake Craze: Sweet Creations",
+      "description": "Indulge in the world of confectionery as you design delectable cakes and dessert tables. Create sweet masterpieces that not only taste heavenly but also mesmerize with their artistic presentation. Can you become the ultimate cake artist?",
+      "price": 25,
+      "serviceImg": "https://i.ibb.co/MsfkJ5p/a11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Kids' Carnival: Fun Extravaganza",
+      "description": "Transform your child's party into a carnival of fun and excitement. Organize games, crafts, and entertaining activities to keep the little ones delighted. Can you create a memorable experience for the youngest partygoers?",
+      "price": 20,
+      "serviceImg": "https://i.ibb.co/dtN37h5/a12.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Pirate's Treasure Hunt: Unearth Riches",
+      "description": "Set sail on a swashbuckling adventure to discover hidden pirate treasures. Navigate treacherous waters, decipher maps, and dig for gold. Can you find the pirate's legendary hoard?",
+      "price": 45,
+      "serviceImg": "https://i.ibb.co/CQhPX5q/a13.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Starship Commander: Galaxy Domination",
+      "description": "Command your starship fleet in an epic quest to dominate the galaxy. Engage in interstellar battles, form alliances, and conquer alien worlds. Will you become the ultimate starship commander?",
+      "price": 60,
+      "serviceImg": "https://i.ibb.co/SKv8857/a14.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Sports Extravaganza: Ultimate Competitions",
+      "description": "Enter the world of competitive sports and participate in thrilling tournaments. Test your skills in various sports, from soccer to basketball, and claim the title of the ultimate sports champion.",
+      "price": 30,
+      "serviceImg": "https://i.ibb.co/b6zbhPC/a15.jpg"
+    }
+  ]
+  
