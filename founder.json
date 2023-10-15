@@ -1,20 +1,20 @@
 [
-    {
-      "id": 1,
-      "imgLink": "https://i.ibb.co/ZN1Zv2Q/client2.jpg",
-      "name": "John Smith",
-      "designation": "Event Planner"
-    },
-    {
-      "id": 2,
-      "imgLink": "https://i.ibb.co/85LPShh/IMG20230302165531.jpg",
-      "name": "Emily Johnson",
-      "designation": "Creative Designer"
-    },
-    {
-      "id": 3,
-      "imgLink": "https://i.ibb.co/5kLgsy2/IMG20230302175236.jpg",
-      "name": "David Brown",
-      "designation": "Catering Specialist"
-    }
-  ]
+  {
+    "id": 1,
+    "imgLink": "https://i.ibb.co/rcngBY6/IMG20230302184750.jpg",
+    "name": "Mr Samin John ",
+    "designation": "Event Planner"
+  },
+  {
+    "id": 2,
+    "imgLink": "https://i.ibb.co/85LPShh/IMG20230302165531.jpg",
+    "name": "Amit Kumer",
+    "designation": "Creative Designer"
+  },
+  {
+    "id": 3,
+    "imgLink": "https://i.ibb.co/5kLgsy2/IMG20230302175236.jpg",
+    "name": "Paplosh Kumer",
+    "designation": "Catering Specialist"
+  }
+]
