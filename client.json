@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Alex Turner",
+      "location": "New York, NY",
+      "rating": 5,
+      "comment": "The gaming experience provided by your team was outstanding. Every aspect, from gameplay to customer support, was top-notch. We're truly grateful!",
+      "authorImgLink": "https://i.ibb.co/Qdrp8Dw/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Emma Parker",
+      "location": "Los Angeles, CA",
+      "rating": 4,
+      "comment": "Your service in the gaming world is impressive. Attention to detail and professionalism in the gaming industry stood out. We look forward to future gaming adventures.",
+      "authorImgLink": "https://i.ibb.co/nQRS3QM/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Liam Scott",
+      "location": "Chicago, IL",
+      "rating": 5,
+      "comment": "Our gaming marathon's success is all thanks to your expertise. Your ability to understand our gaming vision and execute it is commendable.",
+      "authorImgLink": "https://i.ibb.co/8Y1HqwT/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Olivia Bennett",
+      "location": "Miami, FL",
+      "rating": 4,
+      "comment": "You made my gaming session unforgettable. The creativity in the gaming setup and gameplay left everyone in awe.",
+      "authorImgLink": "https://i.ibb.co/Cm37WJs/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Noah Lewis",
+      "location": "San Francisco, CA",
+      "rating": 5,
+      "comment": "Planning my gaming tournament was stressful, but your team handled everything. The competition was a huge hit, and everyone loved it!",
+      "authorImgLink": "https://i.ibb.co/Zx2skmK/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Carter",
+      "location": "Austin, TX",
+      "rating": 4,
+      "comment": "Impressive work on our esports event. Your strategic thinking and execution ensured a memorable gaming experience for our players.",
+      "authorImgLink": "https://i.ibb.co/qmdcWQT/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ethan Walker",
+      "location": "Seattle, WA",
+      "rating": 5,
+      "comment": "Our gaming marathon was made special by your team. Perfect gaming setup and seamless gameplay. A night of gaming to remember!",
+      "authorImgLink": "https://i.ibb.co/WWX55FF/7.jpg"
+    }
+  ]
+  
