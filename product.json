@@ -1,0 +1,132 @@
+[
+    {
+        "_id": "1",
+        "image": "hhttps://i.ibb.co/TwmK46d/Audi-SQ8-Sportback-e-tron.webp",
+        "name": "Audi-SQ8-Sportback-e-tron",
+        "brand": "2",
+        "type": "Sportscar",
+        "price": "1900000",
+        "description": "The Best Shoe",
+        "rating": "5"
+    },
+    {
+        "_id": "2",
+        "image": "https://i.ibb.co/yyGcPTs/audie-tron.webp",
+        "name": "Audie-tron",
+        "brand": "1",
+        "type": "shoes",
+        "price": "14599000",
+        "description": "One of the most comfortable one",
+        "rating": "4"
+    },
+    {
+        "_id": "3",
+        "image": "https://i.ibb.co/Qbks3RR/BMWcoupe.webp",
+        "name": "BMWcoupe",
+        "brand": "1",
+        "type": "coupe",
+        "price": "145000000",
+        "description": "Cool",
+        "rating": "5"
+    },
+    {
+        "_id": "4",
+        "image": "https://i.ibb.co/tmcNr1Z/coupe.webp",
+        "name": "Toyota",
+        "brand": "1",
+        "type": "coupe",
+        "price": "16500000",
+        "description": "Feel like a superstar",
+        "rating": "4"
+    },
+    {
+        "_id": "5",
+        "image": "https://i.ibb.co/tbD4sSk/laborghinispyder.webp",
+        "name": "Laborghini",
+        "brand": "1",
+        "type": "spyder",
+        "price": "19500000",
+        "description": "Top best car",
+        "rating": "5"
+    },
+    {
+        "_id": "6",
+        "image": "hhttps://i.ibb.co/TwmK46d/Audi-SQ8-Sportback-e-tron.webp",
+        "name": "Audi-SQ8-Sportback-e-tron",
+        "brand": "2",
+        "type": "Sportscar",
+        "price": "1900000",
+        "description": "The Best Shoe",
+        "rating": "5"
+    },
+    {
+        "_id": "7",
+        "image": "https://i.ibb.co/yyGcPTs/audie-tron.webp",
+        "name": "Audie-tron",
+        "brand": "1",
+        "type": "shoes",
+        "price": "14599000",
+        "description": "One of the most comfortable one",
+        "rating": "4"
+    },
+    {
+        "_id": "8",
+        "image": "https://i.ibb.co/Qbks3RR/BMWcoupe.webp",
+        "name": "BMWcoupe",
+        "brand": "1",
+        "type": "coupe",
+        "price": "145000000",
+        "description": "Cool",
+        "rating": "5"
+    },
+    {
+        "_id": "9",
+        "image": "https://i.ibb.co/tmcNr1Z/coupe.webp",
+        "name": "Toyota tzen",
+        "brand": "1",
+        "type": "coupe",
+        "price": "16500000",
+        "description": "Feel like a superstar",
+        "rating": "4"
+    },
+    {
+        "_id": "10",
+        "image": "https://i.ibb.co/tbD4sSk/laborghinispyder.webp",
+        "name": "Laborghini L5",
+        "brand": "1",
+        "type": "spyder",
+        "price": "19500000",
+        "description": "Top best car",
+        "rating": "5"
+    },
+    {
+        "_id": "11",
+        "image": "hhttps://i.ibb.co/fQywB4q/ferari1.webp",
+        "name": "Ferari f1",
+        "brand": "4",
+        "type": "Hot Rod",
+        "price": "5900000000",
+        "description": "Best car highy expensive",
+        "rating": "5"
+    },
+    {
+        "_id": "12",
+        "image": "https://i.ibb.co/6ZqqFx8/honda2.webp",
+        "name": "Honda J5",
+        "brand": "4",
+        "type": "cabriolet",
+        "price": "2700000",
+        "description": "Cool car",
+        "rating": "5"
+    },
+    {
+        "_id": "13",
+        "image": "https://i.ibb.co/q9Rnp5H/product-zara-textured-short-jacket.png",
+        "name": "Jaguar",
+        "brand": "4",
+        "type": "sports sedan",
+        "price": "19999999",
+        "description": "A common use car",
+        "rating": "4"
+    }
+]
